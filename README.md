@@ -9,14 +9,14 @@ The idea is to have a rasperry pi run a web server that can load a youtube playl
 
 ### TODO
 
-[] Get some code for the button presses on the rpi when hooking up a keyswitche to the gpio pin
-[] Get local webserver running on the rpi
-[] Code a basic svelte website
-[] Code to load youtube playist
-[] Embed youtube playlist in website
-[] Have button presses interact with browser
-[] Start Timer on video playing
-[] Write game logic
+- [] Get some code for the button presses on the rpi when hooking up a keyswitche to the gpio pin
+- [] Get local webserver running on the rpi
+- [] Code a basic svelte website
+- [] Code to load youtube playist
+- [] Embed youtube playlist in website
+- [] Have button presses interact with browser
+- [] Start Timer on video playing
+- [] Write game logic
 
 ## Getting Started
 
